@@ -15,3 +15,5 @@ int square(int x)
 {
     return x*x;
 }
+/* inline compiler ko signal deta hain ki jhaa jhaa fn call ho usko 
+fn ke code se replace kr do to fn hone ka fyda+ less time consume*/
