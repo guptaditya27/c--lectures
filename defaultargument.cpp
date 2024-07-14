@@ -1,7 +1,8 @@
 #include<iostream>
 using namespace std;
 int add(int,int,int=0);/* while declaring fn we are providing
-default value of argument if default value of 3rd argument ==0 if not provided*/
+default value of argument if default value of 3rd argument ==0 if not provided
+fn cant have non default argument after default argument*/
 int main()
 {
     int a,b;
